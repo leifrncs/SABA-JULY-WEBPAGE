@@ -1,0 +1,59 @@
+<html>
+<head>
+<title>Home</title>
+</head>
+
+<body beauty-girl="beauty-girl.jpg">
+<font color=red>
+<h1 align =center>COMPUTER SCIENCE</h1>
+</font>
+<hr>
+
+<title>webpage</title>
+</head>
+<body>
+	<header>
+		<h1>webpage</h1>
+		<button type="button">Click Me!</button>
+	</header>
+	<main>
+		<h2>Personal Information</h2>
+		<ul>
+			<li><strong>Name:</strong>July Sergs Deco P. Saba</li>
+			<li><strong>Date of Birth:</strong>July 17 2004</li>
+			<li><strong>Address:</strong>Tago surigao del sur</li>
+			<li><strong>Email:</strong> July.saba@email.com</li>
+			<li><strong>Phone:</strong>09709541700</li>
+		</ul>
+		<h2>Education</h2>
+		<ul>
+			<li><strong>Degree:</strong> Bachelor of Science in Computer Science</li>
+			<li><strong>Institution:</strong>NEMSU</li>
+			<li><strong>Graduation Date:</strong> May 2022</li>
+		</ul>
+		<h2>Work Experience</h2>
+		<ul>
+			<li><strong>Position:</strong> Video Editing </li>
+			<li><strong>Company:</strong> CMI Corporation</li>
+			<li><strong>Employment Dates:</strong> June 2023 - Present</li>
+			<li><strong>Responsibilities:</strong> Developing and maintaining software applications for clients.</li>
+		</ul>
+	</main>
+	<footer>
+		<p> 2023 My webpage</p>
+	</footer>
+</body>
+</html
+
+
+<h1 style="background-color:rgb(255, 99, 71);">...</h1>
+<h1 style="background-color:#ff6347;">...</h1>
+<h1 style="background-color:hsl(9, 100%, 64%);">...</h1>
+
+<h1 style="background-color:rgba(255, 99, 71, 0.5);">...</h1>
+<h1 style="background-color:hsla(9, 100%, 64%, 0.5);">...</h1>
+
+
+
+</body>
+</html>
